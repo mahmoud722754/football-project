@@ -1,4 +1,4 @@
-#Real Madrid Club Archive
+# Real Madrid Club Archive
 
 A responsive, static website for exploring Real Madrid club information and La Liga season statistics. Visitors can compare team seasons, browse player statistics, search by player and position, and view club and legend profiles.
 
